@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;  
+}
+
+body {
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+}
+.wrap {
+    max-width: 1440px;
+    margin: auto;
+}
+
+/* дорабатывай стили шлобальные */
+button {
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+input, textarea {
+    padding-left: 15px;
+}
